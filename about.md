@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Oscillating my whole life between computers and physics, I have tackled things from theoretical physics to application development. 
+Optimizing my career-choice function across the parameter space of the abstract concepts, visible results, programming, and scientific method, I arrived at the Machine Learning point. Now, I am building my career upon it. I am mostly interested in the Reinforcement Learning, but I am open to other ways of building AI as well.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:pawelrgrabinski@gmail.com)
