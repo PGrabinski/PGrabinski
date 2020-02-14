@@ -9,4 +9,4 @@ Optimizing my career-choice function across the parameter space of the abstract 
 
 ### Contact me
 
-[email@domain.com](mailto:pawelrgrabinski@gmail.com)
+[pawelrgrabinski@gmail.com](mailto:pawelrgrabinski@gmail.com)
