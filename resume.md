@@ -47,12 +47,12 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
  Hands-on introduction to machine learning using particle detector data.
 
 # Education
-## Master of Theoretical Physics at University of Wrocław, 10.2017-03.2020
+### Master of Theoretical Physics at University of Wrocław, 10.2017-03.2020
 ### Thesis: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
 #### Supervisor: [Dr. Tomasz Golan](https://www.linkedin.com/in/tomasz-golan-10b458151)
 
 ----
-## Bachelor of Theoretical Physics, University of Wrocław, 10.2013-12.2016
+### Bachelor of Theoretical Physics, University of Wrocław, 10.2013-12.2016
 ### Thesis: [Entanglement Entropy in 2D Conformal Field Theory](https://github.com/PGrabinski/BachelorThesis)
 #### Supervisor: [Dr. Artur Pietrykowski](https://www.researchgate.net/profile/Artur_Pietrykowski), JINR Dubna, Russia
  The thesis is a result of participation in the Bogolubov-Infeld Programme 2016 at JINR in Dubna where I was working on the project "Entanglement Entropy in 2D Conformal Field Theory".
