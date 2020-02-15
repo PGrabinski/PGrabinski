@@ -19,13 +19,19 @@ permalink: /resume/
 #### Project: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
 #### Time and place: University of Wrocław, 02.2019-03.2020
 **Technologies:** Python, NumPy, Tensorflow 2.0
+ In the course of the one year long work on this subject:
+* I have reproduced the results of the work Lagaris, et al. concerning the Trial Solution scheme - a numerical method for solving differential equations using neural networks optimized without additional constraints as the initial or boundary conditons are incorporated directly into the solution.
+* I have reproduced the results of the work Shirvany, et al. concerning solving the Schroedinger equation using neural networks optimized with constraints being functions of the initial or boundary conditons.
+* I have conducted some additional experiments mixing the above methods.
+The code for the first method was written both from scratch in Numpy and using the Tensorflow 2.x framework. The second method was researched solely using Tensorflow 2.x.
+
 
 ### Machine Learning Summer Intern
 #### Project: Non-GPS Indoor Localization System
 #### Time and place: [NeuroSYS](https://neurosys.com), 07-08.2018
 **Technologies:** Python, Scikit Learn, Keras, NumPy&amp;SciPy, FilterPy
 Working within the agile (Scrum) methodology, I performed the following tasks:
-*Reasearched publications and existing solutions,
+* Reasearched publications and existing solutions,
 * Scripted data transformation for WiFi RSS data,
 * Worked on a model for RSS-to-position prediction,
 * Implemented the Particle Filter (Monte Carlo model),
@@ -55,11 +61,11 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 ### [Physics Students' Society "Migacz"](http://migacz.edu.pl/)
 **Role:** Member &amp; President in 2014/2015 and 2017/2018 a. yr.
 
-**Organized seminars, conferences, and other events, e. g.:**
+**Organized seminars, conferences, and other events, e.g.:**
 * Winter Kindergarten of Theoretical Physics 2014, 2015, 2016,
 * Fizyczno-Astronomiczna Konferencja (Physical-Astronomical Conference) 2014, 2015, 2016
 
-**Took part in ationwide and international conferences, e. g.:**
+**Took part in ationwide and international conferences, e.g.:**
 * Ogólnopolska Sesja Kół Naukowych Fizyków 2014, Sopot
 * International Conference of Physics Students 2016, Malta
 * Cosmology, Strings and New Physics 2016, Dubna, Russia
