@@ -17,9 +17,9 @@ permalink: /resume/
 
 ****
 ## Experience
-****
-### Machine Learning Summer Intern at [NeuroSYS](https://neurosys.com) (07-08.2018)
-#### Project: Non-GPS Indoor Localization System
+### Machine Learning Summer Intern
+### Project: Non-GPS Indoor Localization System
+#### Time and place: [NeuroSYS](https://neurosys.com), 07-08.2018
 **Technologies:** Python, Scikit Learn, XGBoost, Keras, NumPy&amp;SciPy, FilterPy, Matplotlib, Jupyter Notebooks
 Working within the agile (Scrum) methodology, I performed the following tasks:
 *Reasearched publications and existing solutions,
@@ -28,30 +28,28 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 * Implemented the Particle Filter (Monte Carlo model),
 * Implemented server-side logic,
 * Worked on vision-localization model.
-****
 
-### Summer Student Programme at Institute for Nuclear Research, PAN Cracow (7.2015)
-#### Project: [Machine Learning in High Energy Physics](https://github.com/PGrabinski/ATLAS_ML)
+### Summer Student Programme
+### Project: [Machine Learning in High Energy Physics](https://github.com/PGrabinski/ATLAS_ML)
 **Technologies:** C++ (ROOT, TMVA), Python (XGBoost, Hyperopt)
  Introduction to Machine Learning and particle detector data.
-****
-                <!-- Including <a href="https://github.com/PGrabinski/SimulationMethods">Simulation Methods</a>, <a href="https://github.com/PGrabinski/ParallelPrograming">Parallel Computing</a>,
-                <a href="https://github.com/PGrabinski/PhysicalModeling">Physical Modeling 2013-2017 -->
 
 ****
 ## Education
-****
-* Master of Theoretical Physics University of Wrocław
-    ** Thesis: "Monte Carlo Methods in Deep Learning", 10.2017-03.2020
-* Bachelor of Theoretical Physics, University of Wrocław
-    ** [Thesis: "Entanglement Entropy in 2D Conformal Field Theory"](https://github.com/PGrabinski/BachelorThesis)
-                    Bogolubov-Infeld Programme
-                "Entanglement Entropy in 2D Conformal Field Theory"
-                Joined Institute for Nuclear Research Dubna, Russia
-                After the program, I have joined Dr. Pietrykowski
-                to write <a href="https://github.com/PGrabinski/BachelorThesis" target="_blank" rel="noopener">my Bachelor thesis</a>
+### Master of Theoretical Physics at University of Wrocław, 10.2017-03.2020
+### Thesis: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
 
-* Computer Science Profile, Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej, Wrocław, 10.2013-12.2016
+
+### Bachelor of Theoretical Physics, University of Wrocław, 10.2013-12.2016
+### Thesis: [Entanglement Entropy in 2D Conformal Field Theory](https://github.com/PGrabinski/BachelorThesis)
+#### Supervisor: [Dr. Pietrykowski](https://www.researchgate.net/profile/Artur_Pietrykowski), JINR Dubna, Russia
+ The thesis is a result of participation in the Bogolubov-Infeld Programme 2016 at JINR in Dubna where I was working on the project "Entanglement Entropy in 2D Conformal Field Theory".
+ 
+
+### High School: Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej, Wrocław 09.2007-04.2010
+### Computer Science Profile
+
+
 
 ****
 ## Organizations 
@@ -68,6 +66,7 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 * Cosmology, Strings and New Physics 2016, Dubna, Russia
 * Ogólnopolska Sesja Kół Naukowych Fizyków 2017, Wrocław
 ****
+
 ## Hobbies
 * Tabletop Roleplaying Games (Call of Cthulhu, D&amp;D)
 * Literature (fantasy, horror, polish 20th cent.),
