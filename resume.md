@@ -6,7 +6,6 @@ permalink: /resume/
 # Summary
  Oscillating my whole life between computers and physics, I have tackled things from theoretical physics to application development. Optimizing my career-choice function across the parameter space of the abstract concepts, visible results, programming, and scientific method, I arrived at the Machine Learning point. I am mostly interested in the Reinforcement Learnig, but I am open for any methods for AI development.
 
-****
 # Skills
 
 * **Python:** Numpy, Tensorflow 2.0 &amp; Keras, Matplotlib, XGBoost, Scikit Learn
@@ -15,7 +14,6 @@ permalink: /resume/
 * **Tools:** Git, Latex, Linux, Jupyter Notebooks
 * **Languages:** Polish (native), English (IELTS 7.5 - C1)
 
-****
 # Experience
 ### Machine Learning Summer Intern
 #### Project: Non-GPS Indoor Localization System
@@ -34,7 +32,6 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 **Technologies:** C++ (ROOT, TMVA), Python (XGBoost, Hyperopt)
  Introduction to Machine Learning and particle detector data.
 
-****
 # Education
 ### Master of Theoretical Physics at University of Wrocław, 10.2017-03.2020
 #### Thesis: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
@@ -46,9 +43,8 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
  The thesis is a result of participation in the Bogolubov-Infeld Programme 2016 at JINR in Dubna where I was working on the project "Entanglement Entropy in 2D Conformal Field Theory".
  
 ----
-### Computer Science Profile at Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej, Wrocław 09.2007-04.2010
+### Computer Science Profile at [Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej](https://lo14.wroc.pl/), Wrocław 09.2007-04.2010
 
-****
 # Organizations 
 ### [Physics Students' Society "Migacz"](http://migacz.edu.pl/)
 **Role:** Member &amp; President in 2014/2015 and 2017/2018 a. yr.
@@ -62,7 +58,7 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 * International Conference of Physics Students 2016, Malta
 * Cosmology, Strings and New Physics 2016, Dubna, Russia
 * Ogólnopolska Sesja Kół Naukowych Fizyków 2017, Wrocław
-****
+
 
 # Hobbies
 * Tabletop Roleplaying Games (Call of Cthulhu, D&amp;D)
