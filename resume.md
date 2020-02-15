@@ -3,143 +3,19 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
-<div class="container-fluid">
-    <header class="header">
-        <h6>Theoretical Physics student</h6>
-        <h6>Web development hobbyst</h6>
-        <h6>Machine Learning researcher/engineer</h6>
-
-        <hr class="purple-ruler-lg" />
-
-        <div class="row">
-            <div class="col-md-3"></div>
-            <div class="col-md-2">
-                <a class="contact" href="mailto:pawelrgrabinski@gmail.com" target="_blank" rel="noopener">[icon name="at" class="" unprefixed_class=""] pawelrgrabinski</a>
-            </div>
-            <div class="col-md-2">
-                <a class="contact" style="color: black !important;" href="https://github.com/PGrabinski" target="_blank" rel="noopener">[icon name="github" class="" unprefixed_class=""] PGrabinski </a>
-            </div>
-            <div class="col-md-2">
-                <a class="contact" style="color: black !important;" href="https://www.linkedin.com/in/prgrabinski/" target="_blank" rel="noopener">[icon name="linkedin-square" class="" unprefixed_class=""] prgrabinski </a>
-            </div>
-            <div class="col-md-3"></div>
-        </div>
-        <hr class="purple-ruler-lg" />
-    </header>
-</div>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-3">
-        </div>
-        <div class="col-md-6">
-            <h2 class="section-header">Summary[icon name="user-md" class="" unprefixed_class=""]</h2>
-            <hr class="purple-ruler-react" />
-        </div>
-        <div class="col-md-3"></div>
-        <hr class="purple-ruler" />
-    </div>
-
-    <div class="row">
-        <div class="col-md-2">
-        </div>
-
-        <div class="col-md-8">
-            <p>
-                Oscillating my whole life between computers and physics, I have tackled things from theoretical physics to application development. Optimizing my career-choice function across the parameter space of the abstract concepts, visible results, programming, and scientific method, I arrived at the Machine Learning point.
-                Now, I am willing to build upon it both, my career and my master thesis.
-            </p>
-        </div>
-        <div class="col-md-2"></div>
-    </div>
-
-    <hr class="purple-ruler-lg" />
-    <div class="row">
-        <div class="col-md-3">
-        </div>
-        <div class="col-md-6">
-            <h2 class="section-header">Skills[icon name="check" class="" unprefixed_class=""]</h2>
-            <hr class="purple-ruler-react" />
-        </div>
-        <div class="col-md-3"></div>
-        <hr class="purple-ruler" />
-    </div>
-    <div class="row">
-        <div class="col-md-2">
-        </div>
-
-        <div class="col-md-8">
+## Summary
+ Oscillating my whole life between computers and physics, I have tackled things from theoretical physics to application development. Optimizing my career-choice function across the parameter space of the abstract concepts, visible results, programming, and scientific method, I arrived at the Machine Learning point. I am mostly interested in the Reinforcement Learnig, but I am open for any methods for AI development.
 
 
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Python:
-                </div>
-                <div class="col-md-10">
-                    Numpy, Keras, XGBoost, HyperOpt, Scikit Learn, Matplotlib
-                </div>
-            </div>
+## Skills
 
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Web:
-                </div>
-                <div class="col-md-10">
-                    HTML, CSS, Bootstrap, Wordpress, JavaScript, JQuery, Angular2+
-                </div>
-            </div>
+* **Python:** Numpy, Tensorflow 2.0 &amp; Keras, Matplotlib, XGBoost, HyperOpt, Scikit Learn
+* **Web:** HTML, CSS, Bootstrap, Wordpress, JavaScript,
+* **Others:** C/C++, SQL, Mathematica, Matlab&amp;Octave
+* **Tools:** Git, Latex, Linux, Jupyter Notebooks
+* **Languages:** Polish (native), English (IELTS 7.5 - C1)
 
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Others:
-                </div>
-                <div class="col-md-10">
-                    C/C++, Java, SQL, Mathematica, Matlab&amp;Octave
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Tools:
-                </div>
-                <div class="col-md-10">
-                    Git, Latex, Linux, Jupyter Notebooks, Colaboratory
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Soft:
-                </div>
-                <div class="col-md-10">
-                    Quick learner, Team player, Public speaker
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-2" style="font-weight: bold; text-align: center;">
-                    Languages:
-                </div>
-                <div class="col-md-10">
-                    Polish (native), English (IELTS 7.5 - C1), German (basic)
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-2">
-        </div>
-
-    </div>
-
-
-
-    <hr class="purple-ruler-lg" />
-
-    <div class="row">
-        <div class="col-md-3">
-        </div>
-        <div class="col-md-6">
-            <h2 class="section-header">Experience [icon name="briefcase" class="" unprefixed_class=""]</h2>
+## Experience
             <hr class="purple-ruler-react" />
         </div>
         <div class="col-md-3"></div>
@@ -496,40 +372,9 @@ permalink: /resume/
                 International Conference of Physics Students 2016, Malta
                 Cosmology, Strings and New Physics 2016, Dubna, Russia
                 Ogólnopolska Sesja Kół Naukowych Fizyków 2017, Wrocław
-            </p>
-        </div>
-        <div class="col-md-3">
-            <p class="date"></p>
 
-        </div>
-    </div>
-
-    <hr class="purple-ruler-lg" />
-    <div class="row">
-        <div class="col-md-3">
-        </div>
-        <div class="col-md-6">
-            <h2 class="section-header">Hobbies[icon name="beer" class="" unprefixed_class=""]</h2>
-            <hr class="purple-ruler-react" />
-        </div>
-        <div class="col-md-3"></div>
-        <hr class="purple-ruler" />
-    </div>
-    <div class="row">
-        <div class="col-md-3">
-
-        </div>
-        <div class="col-md-6">
-            <p>
-                Literature (fantasy and sci-fi, polish 20th cent.),
-                Music&amp;Guitar (Rock&amp;Metal, Blues&amp;Jazz),
-                TV series (mainstream, comics adaptations),
-                Sport shooting, Running and Crossfit
-            </p>
-        </div>
-        <div class="col-md-3">
-            <p class="date"></p>
-        </div>
-    </div>
-    <hr class="purple-ruler" />
-</div>
+## Hobbies
+* Tabletop Roleplaying Games (Call of Cthulhu, D&amp;D)
+* Literature (fantasy, horror, polish 20th cent.),
+* Music&amp;Guitar (Rock&amp;Metal, Blues&amp;Jazz),
+* Krav Maga, Calisthenics, and Running
