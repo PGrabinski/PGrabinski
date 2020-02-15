@@ -24,6 +24,7 @@ permalink: /resume/
 * I have reproduced the results of the work Lagaris, et al. concerning the Trial Solution scheme - a numerical method for solving differential equations using neural networks optimized without additional constraints as the initial or boundary conditons are incorporated directly into the solution.
 * I have reproduced the results of the work Shirvany, et al. concerning solving the Schroedinger equation using neural networks optimized with constraints being functions of the initial or boundary conditons.
 * I have conducted some additional experiments mixing the above methods.
+
 The code for the first method was written both from scratch in Numpy and using the Tensorflow 2.x framework. The second method was researched solely using Tensorflow 2.x.
 
 
