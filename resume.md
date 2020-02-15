@@ -15,10 +15,15 @@ permalink: /resume/
 * **Languages:** Polish (native), English (IELTS 7.5 - C1)
 
 # Experience
+### Master Thesis
+#### Project: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
+#### Time and place: University of Wrocław, 02.2019-03.2020
+**Technologies:** Python, NumPy, Tensorflow 2.0
+
 ### Machine Learning Summer Intern
 #### Project: Non-GPS Indoor Localization System
 #### Time and place: [NeuroSYS](https://neurosys.com), 07-08.2018
-**Technologies:** Python, Scikit Learn, XGBoost, Keras, NumPy&amp;SciPy, FilterPy, Matplotlib, Jupyter Notebooks
+**Technologies:** Python, Scikit Learn, Keras, NumPy&amp;SciPy, FilterPy
 Working within the agile (Scrum) methodology, I performed the following tasks:
 *Reasearched publications and existing solutions,
 * Scripted data transformation for WiFi RSS data,
@@ -35,11 +40,12 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 # Education
 ### Master of Theoretical Physics at University of Wrocław, 10.2017-03.2020
 #### Thesis: [Numerical Solution for Differential Equations with Neural Networks](https://github.com/PGrabinski/NeuralDifferentialEquations)
+#### Supervisor: [Dr. Tomasz Golan](https://www.linkedin.com/in/tomasz-golan-10b458151)
 
 ----
 ### Bachelor of Theoretical Physics, University of Wrocław, 10.2013-12.2016
 #### Thesis: [Entanglement Entropy in 2D Conformal Field Theory](https://github.com/PGrabinski/BachelorThesis)
-#### Supervisor: [Dr. Pietrykowski](https://www.researchgate.net/profile/Artur_Pietrykowski), JINR Dubna, Russia
+#### Supervisor: [Dr. Artur Pietrykowski](https://www.researchgate.net/profile/Artur_Pietrykowski), JINR Dubna, Russia
  The thesis is a result of participation in the Bogolubov-Infeld Programme 2016 at JINR in Dubna where I was working on the project "Entanglement Entropy in 2D Conformal Field Theory".
  
 ----
