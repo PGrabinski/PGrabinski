@@ -19,7 +19,8 @@ Y = tf.log(X)
 
 
 model = tf.keras.models.Sequential([
-    tf.keras.Layers.Dense(10, input_shape=(1,1), activation='sigmoid'),
+    tf.keras.Layers.Dense(10, input_shape=(1,1),
+                            activation='sigmoid'),
     tf.keras.Layers.Dense(1)
 ])
 
