@@ -45,17 +45,17 @@ The code for the first method was written both from scratch in Numpy and using t
 #### Time and place: University of Wrocław, 2014-2019
  I have taken part in the following courses regarding scientific computing:
 * [Introduction to Neural Networks](https://github.com/PGrabinski/IntroductionNeuralNetworks)
-    ** Hopfield networks, properties of normal distribution, Bayesian parameter estimation, linear discrimination, logistic regression, densely-connected neural networks, backpropagation, SGD&ADAGrad optimizers from scratch in Python with NumPy
+    * Hopfield networks, properties of normal distribution, Bayesian parameter estimation, linear discrimination, logistic regression, densely-connected neural networks, backpropagation, SGD&ADAGrad optimizers from scratch in Python with NumPy
 * [Simulation Methods](https://github.com/PGrabinski/SimulationMethods)
-    ** Monte Carlo methods and random number generation
-    ** Project 1: Test of Random Number Generators with Wolf Algorithm for Ising Model (C++)
-    ** Project 2: Simulated Annealing for Systems of Electric Charges (Python)
+    * Monte Carlo methods and random number generation
+    * Project 1: Test of Random Number Generators with Wolf Algorithm for Ising Model (C++)
+    * Project 2: Simulated Annealing for Systems of Electric Charges (Python)
 * [Mathematica for Physics](https://github.com/PGrabinski/MathematicaPhysics)
-    ** Mathematica package by Wolfram for scientific computations including functional programming methods
+    * Mathematica package by Wolfram for scientific computations including functional programming methods
 * [Physical Modeling](https://github.com/PGrabinski/PhysicalModeling)
-    ** Course regarding Monte Carlo integration, diffusion-limited aggregation, percolasions, fractals, logistic eqations, solving differential equations for charged particles in electric field, and Ising model - coded in C and visualized with GNUPlot
+    * Course regarding Monte Carlo integration, diffusion-limited aggregation, percolasions, fractals, logistic eqations, solving differential equations for charged particles in electric field, and Ising model - coded in C and visualized with GNUPlot
 * [Parallel Programming](https://github.com/PGrabinski/ParallelPrograming)
-    ** Basics of parallel programming including C++11 (or later) threading, OpenMP, MPI, CUDA
+    * Basics of parallel programming including C++11 (or later) threading, OpenMP, MPI, CUDA
 
 
 
