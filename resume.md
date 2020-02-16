@@ -45,7 +45,7 @@ The code for the first method was written both from scratch in Numpy and using t
 #### Time and place: University of Wrocław, 2014-2019
  I have taken part in the following courses regarding scientific computing:
 * [Introduction to Neural Networks](https://github.com/PGrabinski/IntroductionNeuralNetworks)
-    ** Implementing the basic algorithms from scratch in Python with NumPy
+    ** Hopfield networks, properties of normal distribution, Bayesian parameter estimation, linear discrimination, logistic regression, densely-connected neural networks, backpropagation, SGD&ADAGrad optimizers from scratch in Python with NumPy
 * [Simulation Methods](https://github.com/PGrabinski/SimulationMethods)
     ** Monte Carlo methods and random number generation
     ** Project 1: Test of Random Number Generators with Wolf Algorithm for Ising Model (C++)
