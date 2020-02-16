@@ -56,6 +56,8 @@ The code for the first method was written both from scratch in Numpy and using t
     * Course regarding Monte Carlo integration, diffusion-limited aggregation, percolasions, fractals, logistic eqations, solving differential equations for charged particles in electric field, and Ising model - coded in C and visualized with GNUPlot
 * [Parallel Programming](https://github.com/PGrabinski/ParallelPrograming)
     * Basics of parallel programming including C++11 (or later) threading, OpenMP, MPI, CUDA
+    * Project 1: Parallel computations of the Mandelbrot's set written in MPI
+    * Project 2: Summation of inverted squares of high volumes of numbers in CUDA
 
 
 
