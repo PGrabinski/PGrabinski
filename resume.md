@@ -33,13 +33,31 @@ The code for the first method was written both from scratch in Numpy and using t
 #### Time and place: [NeuroSYS](https://neurosys.com), 07-08.2018
 **Technologies:** Python, Scikit Learn, Keras, NumPy&amp;SciPy, FilterPy
 
-Working within the agile (Scrum) methodology, I performed the following tasks:
+ Working within the agile (Scrum) methodology on a project regarding indoor localization based on IMU, WiFi, and QR-codes, I performed the following tasks:
 * Reasearched publications and existing solutions,
-* Scripted data transformation for WiFi RSS data,
+* Scripted data analysis for WiFi RSS data,
 * Worked on a model for RSS-to-position prediction,
 * Implemented the Particle Filter (Monte Carlo model),
 * Implemented server-side logic,
 * Worked on vision-localization model.
+
+## Scientific Computing Courses
+#### Time and place: University of Wrocław, 2014-2019
+ I have taken part in the following courses regarding scientific computing:
+* [Introduction to Neural Networks](https://github.com/PGrabinski/IntroductionNeuralNetworks)
+    ** Implementing the basic algorithms from scratch in Python with NumPy
+* [Simulation Methods](https://github.com/PGrabinski/SimulationMethods)
+    ** Monte Carlo methods and random number generation
+    ** Project 1: Test of Random Number Generators with Wolf Algorithm for Ising Model (C++)
+    ** Project 2: Simulated Annealing for Systems of Electric Charges (Python)
+* [Mathematica for Physics](https://github.com/PGrabinski/MathematicaPhysics)
+    ** Mathematica package by Wolfram for scientific computations including functional programming methods
+* [Physical Modeling](https://github.com/PGrabinski/PhysicalModeling)
+    ** Course regarding Monte Carlo integration, diffusion-limited aggregation, percolasions, fractals, logistic eqations, solving differential equations for charged particles in electric field, and Ising model - coded in C and visualized with GNUPlot
+* [Parallel Programming](https://github.com/PGrabinski/ParallelPrograming)
+    ** Basics of parallel programming including C++11 (or later) threading, OpenMP, MPI, CUDA
+
+
 
 ## Summer Student Programme
 ### Project: [Machine Learning in High Energy Physics](https://github.com/PGrabinski/ATLAS_ML)
@@ -63,7 +81,7 @@ Working within the agile (Scrum) methodology, I performed the following tasks:
 
 # Organizations 
 ## [Physics Students' Society "Migacz"](http://migacz.edu.pl/)
-**Role:** Member &amp; President in 2014/2015 and 2017/2018 a. yr.
+**Role:** Member (2013-2019) &amp; President in 2014/2015 and 2017/2018 a. yr.
 
 **Organized seminars, conferences, and other events, e.g.:**
 * Winter Kindergarten of Theoretical Physics 2014, 2015, 2016,
