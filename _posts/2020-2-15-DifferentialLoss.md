@@ -51,9 +51,9 @@ If we turn on the information, we get the following message.
 ![Training message]({{site.baseurl}}/images/diffinTF2/fit.jpg "Training message")
 
 We can see what did the network learn.
+
 ![Logarithm approximation]({{site.baseurl}}/images/diffinTF2/function.jpg "Approximated function")
 
 Thanks to the **history** object, we can check how did the training proccess go.
 ![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE")
-
 ![Metric function]({{site.baseurl}}/images/diffinTF2/metric.jpg "Metric - MAE")
