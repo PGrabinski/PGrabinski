@@ -55,5 +55,8 @@ We can see what did the network learn.
 ![Logarithm approximation]({{site.baseurl}}/images/diffinTF2/function.jpg "Approximated function")
 
 Thanks to the **history** object, we can check how did the training proccess go.
-![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE")
-![Metric function]({{site.baseurl}}/images/diffinTF2/metric.jpg "Metric - MAE")
+![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE") ![Metric function]({{site.baseurl}}/images/diffinTF2/metric.jpg "Metric - MAE")
+
+This sums up the basic tools we need for simple supervised tasks. If you encountered before Keras as a standalone framework, you can see that Tensorflow 2.x incorporated the high level as it was. Now, we are going to do something what would be problematic with standard Keras, but TF2 can handle it.
+
+## Differential loss function
