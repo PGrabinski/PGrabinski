@@ -32,7 +32,7 @@ model = tf.keras.models.Sequential([
 model.summary()
 {% endhighlight %}
 We receive the following description of the model.
-![Summary of the model]({{ site.baseurl }/images/diffinTF2/summary.jpg "Summary"})
+![Summary of the model]({{ site.baseurl }}/images/diffinTF2/summary.jpg "Summary"})
 
 With the method **compile()**, we specify the optimizer (in this case stochastic gradient descent), a loss function (mean square error), and a list of metrics (mean absolute arror).
 {% highlight python %}
