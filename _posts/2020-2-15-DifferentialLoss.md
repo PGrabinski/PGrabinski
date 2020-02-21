@@ -16,6 +16,7 @@ We begin with standard imports and definition of our samples **X** and targets *
 {% highlight python %}
 import tensorflow as tf
 import numpy as np
+import matplotlib.pyplot as plt
 
 X = np.arange(0.1,2,0.1)
 Y = np.log(X)
@@ -51,12 +52,32 @@ If we turn on the information, we get the following message.
 ![Training message]({{site.baseurl}}/images/diffinTF2/fit.jpg "Training message")
 
 We can see what did the network learn.
+{% highlight python %}
+plt.title("Fitting a network to a logarithm")
+plt.plot(X, Y, label='Ground truth')
+plt.plot(X, model.predict(X), label='Prediction')
+plt.legend()
+plt.show()
+{% endhighlight %}
 
 ![Logarithm approximation]({{site.baseurl}}/images/diffinTF2/function.jpg "Approximated function")
 
 Thanks to the **history** object, we can check how did the training proccess go.
-![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE") ![Metric function]({{site.baseurl}}/images/diffinTF2/metric.jpg "Metric - MAE")
+{% highlight python %}
+plt.title('Loss function - MSE')
+plt.plot(np.arange(1, len(history.history['loss'])+1), history.history['loss'])
+plt.xlabel('Epochs')
+plt.show()
+{% endhighlight %}
+![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE")
+{% highlight python %}
+plt.title('Metric - MAE')
+plt.plot(np.arange(1, len(history.history['mean_absolute_error'])+1), history.history['mean_absolute_error'])
+plt.xlabel('Epochs')
+plt.show()
+{% endhighlight %}
+![Metric function]({{site.baseurl}}/images/diffinTF2/metric.jpg "Metric - MAE")
 
-This sums up the basic tools we need for simple supervised tasks. If you encountered before Keras as a standalone framework, you can see that Tensorflow 2.x incorporated the high level as it was. Now, we are going to do something what would be problematic with standard Keras, but TF2 can handle it.
+This sums up the basic tools we need for simple supervised tasks. If you encountered Keras before as a standalone framework, you can see that Tensorflow 2.x incorporated the high level as it was. Now, we are going to do something what would be problematic with standard Keras, but TF2 can handle it.
 
 ## Differential loss function
