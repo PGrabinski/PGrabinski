@@ -45,7 +45,8 @@ The code for the first method was written both from scratch in Numpy and using t
 #### Time and place: University of Wrocław, 2014-2019
  I have taken part in the following courses regarding scientific computing:
 * [Introduction to Neural Networks](https://github.com/PGrabinski/IntroductionNeuralNetworks)
-    * Hopfield networks, properties of normal distribution, Bayesian parameter estimation, linear discrimination, logistic regression, densely-connected neural networks, backpropagation, SGD&ADAGrad optimizers from scratch in Python with NumPy
+    * Hopfield networks, properties of normal distribution, Bayesian parameter estimation, linear discrimination, logistic regression, densely-connected neural networks, backpropagation, SGD&AdaGrad optimizers
+    * From scratch in Python with NumPy
 * [Simulation Methods](https://github.com/PGrabinski/SimulationMethods)
     * Monte Carlo methods and random number generation
     * Project 1: Test of Random Number Generators with Wolf Algorithm for Ising Model (C++)
@@ -53,7 +54,8 @@ The code for the first method was written both from scratch in Numpy and using t
 * [Mathematica for Physics](https://github.com/PGrabinski/MathematicaPhysics)
     * Mathematica package by Wolfram for scientific computations including functional programming methods
 * [Physical Modeling](https://github.com/PGrabinski/PhysicalModeling)
-    * Course regarding Monte Carlo integration, diffusion-limited aggregation, percolasions, fractals, logistic eqations, solving differential equations for charged particles in electric field, and Ising model - coded in C and visualized with GNUPlot
+    * Course regarding Monte Carlo integration, diffusion-limited aggregation, percolations, fractals, logistic equations, solving differential equations for charged particles in electric field, and Ising model
+    * Coded in C and visualized with GNUPlot
 * [Parallel Programming](https://github.com/PGrabinski/ParallelPrograming)
     * Basics of parallel programming including C++11 (or later) threading, OpenMP, MPI, CUDA
     * Project 1: Parallel computations of the Mandelbrot's set written in MPI
@@ -79,7 +81,7 @@ The code for the first method was written both from scratch in Numpy and using t
  The thesis is a result of participation in the Bogolubov-Infeld Programme 2016 at JINR in Dubna where I was working on the project "Entanglement Entropy in 2D Conformal Field Theory".
  
 ----
-### Computer Science Profile at [Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej](https://lo14.wroc.pl/), Wrocław 09.2007-04.2010
+### Computer Science Profile at [Liceum Ogólnokształcące nr XIV im. Polonii Belgijskiej](https://lo14.wroc.pl/), Wrocław, 09.2007-04.2010
 
 # Organizations 
 ## [Physics Students' Society "Migacz"](http://migacz.edu.pl/)

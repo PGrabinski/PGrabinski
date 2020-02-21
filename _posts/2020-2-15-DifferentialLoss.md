@@ -2,10 +2,7 @@
 layout: post
 title: Differentiating in Tensorflow 2.0
 ---
-
-This will be a post about differentiating in Tensorflow 2.0 with an example of a loss function consisting of a differential of the neural network.
-
-In the begining, I was working with neural networks either writing them from scrath in NumPy or with Keras framework. At some point during my experiments concerning the subject of my master thesis, I wanted to compare the results acquired with my from-scratch implementation with one written in a matured framework. My first choice was obviously Keras. Unfortunately, despite finding some interesting answers on the Stackoverflow, I could not achieve with it one, relatively simple, thing - I could not define a loss function build with derivative of the network. Here, in this post, I am going to show you how to use new Tensorflow 2.x object called Tape and how can it be used to differentiate anything and anywhere, e.g. network response in the loss function.
+In the begining, I was working with neural networks either writing them from scrath in NumPy or with Keras framework. At some point during the experiments concerning the subject of my master thesis, I wanted to compare the results acquired with my from-scratch implementation with one written in a matured framework. My first choice was obviously Keras. Unfortunately, despite finding some interesting answers on the Stackoverflow, I could not achieve with it one, relatively simple, thing - I could not define a loss function build with derivative of the network. Here, in this post, I am going to show you how to use new Tensorflow 2.x object called Tape and how can it be used to differentiate anything and anywhere, e.g. network response in the loss function.
 
 ## Tensorflow 2.0 - new way to go
 
@@ -59,20 +56,22 @@ plt.plot(X, model.predict(X), label='Prediction')
 plt.legend()
 plt.show()
 {% endhighlight %}
-
 ![Logarithm approximation]({{site.baseurl}}/images/diffinTF2/function.jpg "Approximated function")
 
 Thanks to the **history** object, we can check how did the training proccess go.
 {% highlight python %}
 plt.title('Loss function - MSE')
-plt.plot(np.arange(1, len(history.history['loss'])+1), history.history['loss'])
+plt.plot(np.arange(1, len(history.history['loss'])+1),
+        history.history['loss'])
 plt.xlabel('Epochs')
 plt.show()
 {% endhighlight %}
 ![Loss function]({{site.baseurl}}/images/diffinTF2/loss.jpg "Loss function - MSE")
+
 {% highlight python %}
 plt.title('Metric - MAE')
-plt.plot(np.arange(1, len(history.history['mean_absolute_error'])+1), history.history['mean_absolute_error'])
+plt.plot(np.arange(1, len(history.history['mean_absolute_error'])+1),
+        history.history['mean_absolute_error'])
 plt.xlabel('Epochs')
 plt.show()
 {% endhighlight %}
